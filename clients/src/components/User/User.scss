@@ -1,0 +1,15 @@
+@import '../../styles/main';
+
+.user {
+    display: flex;
+    justify-content: space-between;
+    background-color: $white;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 3px 4px 12px 0 rgba(227, 227, 227, 1);
+}
+
+.user__text {
+    width: 30%;
+    display: block;
+}
